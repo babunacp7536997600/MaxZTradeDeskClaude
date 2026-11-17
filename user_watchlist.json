@@ -1,0 +1,20 @@
+{
+  "stocks": [
+    "RELIANCE",
+    "TCS",
+    "HDFCBANK",
+    "BHARTIARTL",
+    "DRREDDY",
+    "JSWSTEEL"
+  ],
+  "funds": [
+    "ICICI Prudential Technology Fund",
+    "Parag Parikh Flexi Cap Fund",
+    "HDFC Flexi Cap Fund"
+  ],
+  "pinned": [
+    "RELIANCE",
+    "BHARTIARTL",
+    "ICICI Prudential Technology Fund"
+  ]
+}
